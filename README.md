@@ -1,15 +1,15 @@
 <h1 align="center">Hi there 👋 I'm Zhiyuan</h1>
-<h3 align="center">SDE & MLE Researcher</h3>
+<h3 align="center">Third-Year UVA Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realallensong&label=Profile%20views&color=0e75b6&style=flat" alt="realallensong" /> </p>
 
 - 🔭 I’m currently working on **Entropinia Startup Company**
 
-- 👨‍💻 All of my projects are available at [Portfolio](www.zhiyuansong.com)
+- 👨‍💻 All of my projects are available at <a href="https://www.zhiyuansong.com/" target="_blank" rel="noreferrer"> Portfolio </a>
 
 - 💬 Ask me about **Anything!**
 
-- 📫 How to reach me [Email](bfy8kq@virginia.edu)
+- 📫 How to reach me bfy8kq@virginia.edu
 
 
 <h3 align="left">Connect with me:</h3>
