@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realallensong&label=Profile%20views&color=0e75b6&style=flat" alt="realallensong" /> </p>
 
-- 🔭 I’m currently working on **Entropinia Startup Company**
-
 - 👨‍💻 All of my projects are available at <a href="https://www.zhiyuansong.com/" target="_blank" rel="noreferrer"> Portfolio </a>
 
 - 💬 Ask me about **Anything!**
