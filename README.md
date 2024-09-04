@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Zhiyuan</h1>
-<h3 align="center">Third-Year UVA Student</h3>
+<h3 align="center">Senior UVA Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realallensong&label=Profile%20views&color=0e75b6&style=flat" alt="realallensong" /> </p>
 
