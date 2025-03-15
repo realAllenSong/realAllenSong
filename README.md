@@ -3,11 +3,11 @@
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realallensong&label=Profile%20views&color=0e75b6&style=flat" alt="realallensong" /> </p>
 
-- 👨‍💻 All of my projects are available at <a href="https://www.zhiyuansong.com/" target="_blank" rel="noreferrer"> Portfolio </a>
+- 👨‍💻 My Chrome Extension for detecting food calorie <a href="https://chromewebstore.google.com/detail/%E9%A3%9F%E7%89%A9%E7%83%AD%E9%87%8F%E8%AF%86%E5%88%AB%E5%8A%A9%E6%89%8B/hbhaaaklhekdeoengajkidoepignonbm?authuser=2&hl=zh-CN" target="_blank" rel="noreferrer"> Extension </a>
 
 - 💬 My Fashion Start Up Brand <a href="https://www.entropinia.com/" target="_blank" rel="noreferrer"> Entropinia </a>
 
-- 📫 How to reach me bfy8kq@virginia.edu
+- 📫 Reach me at realoulasong@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
