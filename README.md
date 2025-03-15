@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://www.zhiyuansong.com/" target="_blank" rel="noreferrer"> Portfolio </a>
 
-- 💬 Ask me about **Anything!**
+- 💬 My Fashion Start Up Brand <a href="https://www.entropinia.com/" target="_blank" rel="noreferrer"> Entropinia </a>
 
 - 📫 How to reach me bfy8kq@virginia.edu
 
