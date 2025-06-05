@@ -1,8 +1,6 @@
-# 👋 Hello, I'm Zhiyuan Song
+# 👋 Hello, I'm Zhiyuan
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Fashion+Tech+Entrepreneur;Always+Learning+Something+New&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)](https://github.com/realallensong)
 
 <img src="https://komarev.com/ghpvc/?username=realallensong&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
@@ -15,21 +13,19 @@
 ```typescript
 const zhiyuan = {
   pronouns: "he" | "him",
-  location: "Virginia, USA",
-  education: "University of Virginia",
-  currentFocus: ["AI/ML", "Full Stack Development", "Fashion Tech"],
-  hobbies: ["Photography", "Design", "Travel", "Fitness"],
-  motto: "Code with passion, design with purpose"
+  location: "Philadelphia, USA",
+  education: "University of Pennsylvania, M.S. in Computer and Information Science",
+  currentFocus: ["AI/ML Research", "Full Stack Development"],
+  hobbies: ["Photography", "Song Production", "Fitness"]
 };
 ```
 
 ## 🎯 What I'm Up To
 
-- 🔭 **Currently Building**: AI-powered fashion recommendation systems
-- 🌱 **Learning**: Advanced machine learning algorithms and blockchain technology  
-- 👯 **Looking to Collaborate**: On innovative AI and fashion-tech projects
+- 🔭 **Currently Building**: AI-powered Consulting systems
+- 🌱 **Learning**: Advanced deep learning algorithms and blockchain technology web3
+- 👯 **Looking to Collaborate**: On innovative AI & LLM projects
 - 💬 **Ask Me About**: Full-stack development, AI/ML, startup journey, or anything tech!
-- ⚡ **Fun Fact**: I can debug code and design fashion pieces with equal enthusiasm
 
 ---
 
@@ -37,10 +33,18 @@ const zhiyuan = {
 
 <div align="center">
 
+### 🎓 Shangjing Consulting Studio
+**Elite CS/AI mentorship turning student potential into Ivy-level admissions & real-world impact**
+
+[![Website](https://img.shields.io/badge/Visit-Website-2563EB?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://consult.shangzhijing.com)
+[![Mentorship](https://img.shields.io/badge/Elite-Mentorship-gold?style=for-the-badge)](https://consult.shangzhijing.com)
+
+---
+
 ### 🍎 Food Calorie Detection Extension
 **AI-powered Chrome extension for instant food calorie recognition**
 
-[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/%E9%A3%9F%E7%89%A9%E7%83%AD%E9%87%8F%E8%AF%86%E5%88%AB%E5%8A%A9%E6%89%8B/hbhaaaklhekdeoengajkidoepignonbm?authuser=2&hl=zh-CN)
+[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/hbhaaaklhekdeoengajkidoepignonbm?utm_source=item-share-cb)
 [![AI](https://img.shields.io/badge/Powered%20by-AI-ff6b6b?style=for-the-badge)](https://github.com/realallensong)
 
 ---
@@ -65,19 +69,20 @@ const zhiyuan = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 ### Backend & Database
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=database&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### AI & Data Science
@@ -88,7 +93,6 @@ const zhiyuan = {
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Mobile & Game Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
@@ -99,25 +103,24 @@ const zhiyuan = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-
 </div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=realallensong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realallensong&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=realallensong&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=realallensong&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
+</div> -->
 
 ---
 
@@ -129,16 +132,16 @@ const zhiyuan = {
 
 ---
 
-## 🎵 Spotify Playing
+<!-- ## 🎵 Spotify Playing
 
 <div align="center">
   
 [![Spotify](https://novatorem-realallensong.vercel.app/api/spotify)](https://open.spotify.com/user/31k6w4z2oaijz3jvpwpcq3c6ktem)
 
-</div>
+</div> -->
 
----
-
+<!-- --- -->
+<!-- 
 ## 🌟 Fun Facts & Interests
 
 <div align="center">
@@ -152,9 +155,9 @@ const zhiyuan = {
 + 🎮 Gaming in free time - Strategy & RPG lover
 ```
 
-</div>
+</div> -->
 
----
+<!-- --- -->
 
 ## 📈 Coding Activity
 
@@ -177,7 +180,7 @@ HTML         52 mins         █░░░░░░░░░░░░░░░░
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zhiyuan-song-641414250)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:realoulasong@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/realallensong)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://www.entropinia.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://www.zhiyuansong.com/)
 
 **💌 Feel free to reach out for collaborations, discussions, or just a friendly chat!**
 
@@ -189,9 +192,9 @@ HTML         52 mins         █░░░░░░░░░░░░░░░░
   
 ### ✨ *"The best way to predict the future is to create it"* ✨
 
-![Snake animation](https://github.com/realallensong/realallensong/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/realallensong/realallensong/blob/output/github-contribution-grid-snake.svg) -->
 
-**Thanks for visiting my profile! Have a great day! 🌟**
+**Thanks for visiting my profile! Have a great day!**
 
 </div>
 
