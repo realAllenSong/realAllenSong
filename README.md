@@ -20,45 +20,6 @@ const zhiyuan = {
 };
 ```
 
-## 🎯 What I'm Up To
-
-- 🔭 **Currently Building**: AI-powered Consulting systems
-- 🌱 **Learning**: Advanced deep learning algorithms and blockchain technology web3
-- 👯 **Looking to Collaborate**: On innovative AI & LLM projects
-- 💬 **Ask Me About**: Full-stack development, AI/ML, startup journey, or anything tech!
-
----
-
-## 🎨 My Projects
-
-<div align="center">
-
-### 🎓 Shangjing Consulting Studio
-**Elite CS/AI mentorship turning student potential into Ivy-level admissions & real-world impact**
-
-[![Website](https://img.shields.io/badge/Visit-Website-2563EB?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://consult.shangzhijing.com)
-[![Mentorship](https://img.shields.io/badge/Elite-Mentorship-gold?style=for-the-badge)](https://consult.shangzhijing.com)
-
----
-
-### 🍎 Food Calorie Detection Extension
-**AI-powered Chrome extension for instant food calorie recognition**
-
-[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/hbhaaaklhekdeoengajkidoepignonbm?utm_source=item-share-cb)
-[![AI](https://img.shields.io/badge/Powered%20by-AI-ff6b6b?style=for-the-badge)](https://github.com/realallensong)
-
----
-
-### 👗 Entropinia Fashion Brand
-**Innovative fashion startup blending technology with sustainable design**
-
-[![Website](https://img.shields.io/badge/Visit-Website-FF69B4?style=for-the-badge&logo=safari&logoColor=white)](https://www.entropinia.com/)
-[![Fashion](https://img.shields.io/badge/Fashion-Tech-purple?style=for-the-badge)](https://www.entropinia.com/)
-
-</div>
-
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
