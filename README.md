@@ -15,8 +15,8 @@ const zhiyuan = {
   pronouns: "he" | "him",
   location: "Philadelphia, USA",
   education: "University of Pennsylvania, M.S. in Computer and Information Science",
-  currentFocus: ["AI/ML Research", "Full Stack Development"],
-  hobbies: ["Photography", "Song Production", "Fitness"]
+  currentFocus: ["AI Research"],
+  hobbies: ["Photography", "Song Writer", "Fitness"]
 };
 ```
 
