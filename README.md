@@ -69,23 +69,6 @@ const zhiyuan = {
 ---
 
 
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zhiyuan-song-641414250)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:realoulasong@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/realallensong)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://www.zhiyuansong.com/)
-
-**💌 Feel free to reach out for collaborations, discussions, or just a friendly chat!**
-
-</div>
-
----
-
-<div align="center">
-  
 ### ✨ *"The best way to predict the future is to create it"* ✨
 
 <!-- ![Snake animation](https://github.com/realallensong/realallensong/blob/output/github-contribution-grid-snake.svg) -->
