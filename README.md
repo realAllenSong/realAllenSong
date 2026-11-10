@@ -1,17 +1,28 @@
-### Hi, I'm Zhiyuan (Allen) Song
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/board-dark.svg">
+  <img src="assets/board-light.svg" width="840" alt="Zhiyuan (Allen) Song: LLM post-training researcher and AI engineer. M.S. at Penn, AI Engineer Intern at Millennium. Shipping ThunderTalk and Wemute. First-author papers under review at ICLR 2027 and at KDD-UC 2024. Live board of releases, contributions and stack.">
+</picture>
 
-LLM researcher (post-training) and AI engineer. I work on **adaptive reasoning** for real-time and agentic systems: teaching models when to think, and how much. AI Engineer at Millennium · M.S. at the University of Pennsylvania · previously UVA.
+#### `$ ls ~/shipping`
 
-I also build AI products that people use:
+- **[ThunderTalk](https://github.com/realAllenSong/ThunderTalk)**: on-device voice toolkit for macOS. Hotkey dictation, transcription with speaker labels, text-to-speech, voice cloning.
+- **[Wemute](https://github.com/realAllenSong/wemute)**: local-first file converter for Mac, with a CLI that turns any file into text for LLMs.
+- **[Neovis](https://github.com/realAllenSong/Neovis)**: a workstation operator with consequence-based approval and an audit log.
+- **[Verity](https://github.com/realAllenSong/Verity)**: a white-box workbench for preparing datasets.
 
-- **[ThunderTalk](https://github.com/realAllenSong/ThunderTalk)**: free, open-source, on-device voice toolkit for macOS (dictation, transcription, TTS, voice cloning)
-- **[Wemute](https://github.com/realAllenSong/wemute)**: local-first file converter for Mac, with a CLI that turns any file into text for LLMs
-- **An internal AI tool at Millennium** that grew from my team to about 190 colleagues, mostly by word of mouth
+#### `$ ls ~/research`
 
-**Research**
 - *Learning When to Think While Listening in Large Audio-Language Models*, under review at ICLR 2027 · [arXiv](https://arxiv.org/abs/2605.27190) · [code](https://github.com/realAllenSong/Learning-When-to-Think-While-Listening)
-- *SL4HOI: Supervised Learning for Predicting Health Opportunity Index across States*, KDD 2024
+- *SL4HOI: Supervised Learning for Predicting Health Opportunity Index across States*, KDD-UC 2024
 
-Open to co-founder conversations. [How I got here →](https://www.zhiyuansong.com/story)
+#### `$ tail ~/blog`
 
-[Website](https://www.zhiyuansong.com) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=7y17yFgAAAAJ) · [LinkedIn](https://www.linkedin.com/in/zhiyuan-song-profile/) · [X](https://x.com/realoulasong) · zysong@seas.upenn.edu
+- [Routing 260 agent skills with 1.2k tokens: what I measured](https://www.zhiyuansong.com/blog/routing-agent-skills)
+- [What I'm building, and the thread through it](https://www.zhiyuansong.com/blog/what-i-am-building)
+- [Building ThunderTalk: a local, MLX-powered alternative to Typeless](https://www.zhiyuansong.com/blog/thundertalk-launch)
+
+#### `$ cat ~/.links`
+
+[zhiyuansong.com](https://www.zhiyuansong.com) · [how I got here](https://www.zhiyuansong.com/#story) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=7y17yFgAAAAJ) · [LinkedIn](https://www.linkedin.com/in/zhiyuan-song-profile/) · [X](https://x.com/realoulasong)
+
+<sub>The board above is redrawn every day from live GitHub data by <a href="build.py"><code>build.py</code></a>.</sub>
