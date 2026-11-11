@@ -11,7 +11,7 @@
 #### `$ ls ~/research`
 
 - *Learning When to Think While Listening in Large Audio-Language Models*, under review at ICLR 2027 · [arXiv](https://arxiv.org/abs/2605.27190) · [code](https://github.com/realAllenSong/Learning-When-to-Think-While-Listening)
-- *SL4HOI: Supervised Learning for Predicting Health Opportunity Index across States*, KDD-UC 2024
+- *SL4HOI: Supervised Learning for Predicting Health Opportunity Index across States*, KDD-UC 2024 · [paper](https://kdd2024.kdd.org/wp-content/uploads/2024/08/14-KDD-UC-Song.pdf) · [code](https://github.com/LiranLizqj6pe/SL4HOI-Supervised-Learning-for-Predicting-Health-Opportunity-Index-across-States)
 
 #### `$ tail ~/blog`
 
