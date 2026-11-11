@@ -21,6 +21,6 @@
 
 #### `$ cat ~/.links`
 
-[zhiyuansong.com](https://www.zhiyuansong.com) · [how I got here](https://www.zhiyuansong.com/#story) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=7y17yFgAAAAJ) · [LinkedIn](https://www.linkedin.com/in/zhiyuan-song-profile/) · [X](https://x.com/realoulasong)
+[zhiyuansong.com](https://www.zhiyuansong.com)
 
 <sub>The board above is redrawn every day from live GitHub data by <a href="build.py"><code>build.py</code></a>.</sub>
