@@ -7,8 +7,6 @@
 
 - **[ThunderTalk](https://github.com/realAllenSong/ThunderTalk)**: on-device voice toolkit for macOS. Hotkey dictation, transcription with speaker labels, text-to-speech, voice cloning.
 - **[Wemute](https://github.com/realAllenSong/wemute)**: local-first file converter for Mac, with a CLI that turns any file into text for LLMs.
-- **[Neovis](https://github.com/realAllenSong/Neovis)**: a workstation operator with consequence-based approval and an audit log.
-- **[Verity](https://github.com/realAllenSong/Verity)**: a white-box workbench for preparing datasets.
 
 #### `$ ls ~/research`
 
