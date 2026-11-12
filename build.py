@@ -19,6 +19,7 @@ STATUS = "building · New York"
 PROJECTS = [
     ("ThunderTalk", "ThunderTalk", "on-device voice toolkit for macOS"),
     ("Wemute", "wemute", "local-first file converter · files → text for LLMs"),
+    ("ASMO", "ASMO", "calendar & to-do your coding agent can use"),
 ]
 PAPERS = [
     ("Learning When to Think While Listening", "first author · under review at ICLR 2027"),
@@ -88,7 +89,7 @@ def level(n):
 
 
 def render(d, t):
-    W, H = 840, 468
+    W, H = 840, 500
     e = html.escape
 
     def text(x, y, s, fill, size=13, weight=400, anchor="start", extra=""):
@@ -111,41 +112,41 @@ def render(d, t):
         text(W - 24, 40, e(STATUS), t["dim"], 12, anchor="end"),
         f'<circle cx="{W - 176}" cy="36" r="4" fill="{t["ok"]}"><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>',
         text(24, 62, e(TAGLINE), t["dim"], 12),
-        tile(24, 80, 388, 128, "SHIPPING"),
+        tile(24, 80, 388, 160, "SHIPPING"),
     ]
-    y = 132
+    y = 128
     for name, repo, blurb in PROJECTS:
-        out.append(text(40, y, e(name) + span(d["releases"].get(repo, ""), t["acc"], weight=600), t["fg"], 15, 600))
-        out.append(text(40, y + 20 if y == 132 else y + 18, e(blurb), t["dim"], 12))
-        y += 46
-    out.append(tile(428, 80, 388, 128, "RESEARCH"))
-    out.append(text(444, 132, e(PAPERS[0][0]), t["fg"], 13.5, 600))
-    out.append(text(444, 152, e(PAPERS[0][1]), t["dim"], 12))
-    out.append(text(444, 178, e(PAPERS[1][0]) + span(PAPERS[1][1], t["dim"], 12), t["fg"], 13.5, 600))
-    out.append(text(444, 196, e(FOCUS), t["acc"], 11.5))
+        out.append(text(40, y, e(name) + span(d["releases"].get(repo, ""), t["acc"], weight=600), t["fg"], 14.5, 600))
+        out.append(text(40, y + 17, e(blurb), t["dim"], 11.5))
+        y += 42
+    out.append(tile(428, 80, 388, 160, "RESEARCH"))
+    out.append(text(444, 136, e(PAPERS[0][0]), t["fg"], 13.5, 600))
+    out.append(text(444, 156, e(PAPERS[0][1]), t["dim"], 12))
+    out.append(text(444, 190, e(PAPERS[1][0]) + span(PAPERS[1][1], t["dim"], 12), t["fg"], 13.5, 600))
+    out.append(text(444, 222, e(FOCUS), t["acc"], 11.5))
 
-    out.append(tile(24, 224, 792, 140, "ACTIVITY · LAST 12 MONTHS"))
+    out.append(tile(24, 256, 792, 140, "ACTIVITY · LAST 12 MONTHS"))
     cell, gap = 10, 2.4
     for i, week in enumerate(d["weeks"][-53:]):
         for day in week["contributionDays"]:
             wd = (datetime.date.fromisoformat(day["date"]).weekday() + 1) % 7
-            out.append(f'<rect x="{40 + i * (cell + gap):.1f}" y="{262 + wd * (cell + gap):.1f}" width="{cell}" '
+            out.append(f'<rect x="{40 + i * (cell + gap):.1f}" y="{294 + wd * (cell + gap):.1f}" width="{cell}" '
                        f'height="{cell}" rx="2" fill="{t["heat"][level(day["contributionCount"])]}"/>')
-    out.append(text(716, 286, f'{d["total"]:,}', t["fg"], 26, 700))
-    out.append(text(716, 304, "contributions", t["dim"], 11.5))
-    out.append(text(716, 336, str(d["active"]), t["fg"], 20, 700))
-    out.append(text(716, 352, "active days", t["dim"], 11.5))
+    out.append(text(716, 318, f'{d["total"]:,}', t["fg"], 26, 700))
+    out.append(text(716, 336, "contributions", t["dim"], 11.5))
+    out.append(text(716, 368, str(d["active"]), t["fg"], 20, 700))
+    out.append(text(716, 384, "active days", t["dim"], 11.5))
 
-    out.append(tile(24, 380, 388, 68, "STACK"))
+    out.append(tile(24, 412, 388, 68, "STACK"))
     x = 40.0
     for (share, _), colour in zip(d["langs"], t["bars"]):
         w = share * 356
-        out.append(f'<rect x="{x:.1f}" y="414" width="{max(w - 2, 2):.1f}" height="8" rx="2" fill="{colour}"/>')
+        out.append(f'<rect x="{x:.1f}" y="446" width="{max(w - 2, 2):.1f}" height="8" rx="2" fill="{colour}"/>')
         x += w
-    out.append(text(40, 440, e(" · ".join(f"{k} {s * 100:.0f}%" for s, k in d["langs"][:4])), t["dim"], 11))
+    out.append(text(40, 472, e(" · ".join(f"{k} {s * 100:.0f}%" for s, k in d["langs"][:4])), t["dim"], 11))
 
-    out.append(tile(428, 380, 388, 68, "RELEASES"))
-    out.append(text(444, 430, str(d["release_count"]) + span(f'shipped · latest {d["latest"]}', t["dim"], 12, dx=12),
+    out.append(tile(428, 412, 388, 68, "RELEASES"))
+    out.append(text(444, 462, str(d["release_count"]) + span(f'shipped · latest {d["latest"]}', t["dim"], 12, dx=12),
                     t["fg"], 26, 700))
     out.append("</svg>")
     return "".join(out)

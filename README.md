@@ -1,11 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/board-dark.svg">
-  <img src="assets/board-light.svg" width="840" alt="Zhiyuan (Allen) Song: LLM post-training researcher and AI engineer. M.S. at Penn, AI Engineer Intern at Millennium. Shipping ThunderTalk and Wemute. First-author papers under review at ICLR 2027 and at KDD-UC 2024. Live board of releases, contributions and stack.">
+  <img src="assets/board-light.svg" width="840" alt="Zhiyuan (Allen) Song: LLM post-training researcher and AI engineer. M.S. at Penn, AI Engineer Intern at Millennium. Shipping ThunderTalk, Wemute and ASMO. First-author papers under review at ICLR 2027 and at KDD-UC 2024. Live board of releases, contributions and stack.">
 </picture>
 
 #### `$ ls ~/shipping`
 
 - **[ThunderTalk](https://github.com/realAllenSong/ThunderTalk)**: on-device voice toolkit for macOS. Hotkey dictation, transcription with speaker labels, text-to-speech, voice cloning.
+- **[ASMO · 逐日](https://github.com/realAllenSong/ASMO)**: a calendar and to-do list for macOS that coding agents can use, through a CLI and an MCP server.
 - **[Wemute](https://github.com/realAllenSong/wemute)**: local-first file converter for Mac, with a CLI that turns any file into text for LLMs.
 
 #### `$ ls ~/research`
